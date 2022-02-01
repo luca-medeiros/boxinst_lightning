@@ -1,0 +1,11 @@
+timm
+python-box
+opencv-python
+pycocotools
+scikit-image
+wandb
+pytorch_lightning
+pandas
+plotly
+torch_optimizer
+rich
